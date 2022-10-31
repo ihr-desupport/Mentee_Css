@@ -1,0 +1,18 @@
+.flex.flex-col.h-screen, .container-fluid {
+    background: #000;
+    background-image: linear-gradient(335deg, rgb(13 23 33), #636c74, #000);
+}
+#sidebar-v2 .flex-col a {
+    background: transparent;
+    margin-bottom: 2px;
+    opacity: 1 !important;
+}
+#sidebar-v2 nav a:hover,
+#sidebar-v2 nav a:not(.divider).active {
+    background: #212529 !important;
+}
+#dashboard .card-header .date-time-picker .field .field-input {
+    padding: 10px 15px !important;
+    color: var(--hl-card-datepicker-color) !important;
+    background: #000000 !important;
+}
