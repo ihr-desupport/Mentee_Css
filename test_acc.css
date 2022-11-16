@@ -16,3 +16,6 @@
     color: var(--hl-card-datepicker-color) !important;
     background: #000000 !important;
 }
+#sidebar-v2 nav>a {
+    background: #000 !important;
+}
