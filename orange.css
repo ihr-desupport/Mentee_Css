@@ -88,7 +88,7 @@
     --left-link-divider: #ffffff;
     --left-link-bg: #ff7c00;
     --left-link-icon-bg: transparent;
-    --left-active-bg: #ff7c00;
+    --left-active-bg: #813e00;
     --left-active-link-icon-bg: transparent;
     --left-active-fore: #ffffff;
     --left-sub-bg: #ff7c00;
@@ -141,13 +141,13 @@
 }
 
 :root {
-    --left-bg-color: #00dcff;
+    --left-bg-color: #fff5eb;
     --sub-heading-color: #ffffff;
     --back-button-bg: Transparent;
     --back-button-color: #222323;
     --left-link-background: linear-gradient(100deg, #ff7c00 0%, #ff7c00 100%);
     --left-active-bg: #ff7c00;
-    --left-link-color: #ffffff;
+    --left-link-color: #000;
     --left-active-fore: #ffffff;
     --left-link-icon-bg: Transparent;
     --left-active-link-icon-bg: #ffffff;
@@ -191,7 +191,7 @@
     --hl-card-header-bg: #f8fcff;
     --hl-card-header-color: #ff7c00;
     --hl-card-datepicker-bg: #ff7c00;
-    --hl-card-datepicker-color: #ffffff
+    --hl-card-datepicker-color: #000
 }
 
 .sidebar-v2-location #sidebar-v2 .hl_nav-header nav a .nav-fa-icon,
