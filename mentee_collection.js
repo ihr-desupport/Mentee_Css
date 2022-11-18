@@ -32,6 +32,11 @@ switch (data_location) {
       "https://githubraw.com/ihr-desupport/Mentee_Css/master/test_acc.css"
     );
     break;
+  case "FcUYc6zgLeFyYLfTMO1S":
+    addCss(
+      "https://githubraw.com/ihr-desupport/Mentee_Css/master/light_green_bg_no_bg_tab.css"
+    );
+    break;
 
   default:
     break;
