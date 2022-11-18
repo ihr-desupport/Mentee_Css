@@ -27,6 +27,11 @@ switch (data_location) {
       "https://githubraw.com/ihr-desupport/Mentee_Css/master/builders.css"
     );
     break;
+  case "CW0wJlIx1wfibbtbaEUS":
+    addCss(
+      "https://githubraw.com/ihr-desupport/Mentee_Css/master/test_acc.css"
+    );
+    break;
 
   default:
     break;
