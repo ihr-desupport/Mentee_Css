@@ -24,7 +24,7 @@ switch (data_location) {
 
   case "8I6IEqK5WkpFH9PraTYb":
     addCss(
-      "https://githubraw.com/ihr-desupport/Mentee_Css/master/orange.css"
+      "https://githubraw.com/ihr-desupport/Mentee_Css/master/orange.css?v=1.0"
     );
     break;
   case "CW0wJlIx1wfibbtbaEUS":
