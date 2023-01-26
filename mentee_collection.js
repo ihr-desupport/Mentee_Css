@@ -39,6 +39,9 @@ switch (data_location) {
     break;
 
   default:
+    addCss(
+      "https://githubraw.com/ihr-desupport/Mentee_Css/master/systemly_generic.css"
+    );
     break;
 }
 
