@@ -26,7 +26,7 @@ switch (data_location) {
 
   case "8I6IEqK5WkpFH9PraTYb":
     addCss(
-      "https://githubraw.com/ihr-desupport/Mentee_Css/master/orange.css?v=1.0"
+      "https://githubraw.com/ihr-desupport/Mentee_Css/master/funnelist-minimal.css"
     );
     break;
   case "CW0wJlIx1wfibbtbaEUS":
@@ -39,7 +39,8 @@ switch (data_location) {
       "https://githubraw.com/ihr-desupport/Mentee_Css/master/light_green_bg_no_bg_tab.css"
     );
     break;
-
+    
+    
   default:
     addCss(
       "https://githubraw.com/ihr-desupport/Mentee_Css/master/systemly_generic.css"
