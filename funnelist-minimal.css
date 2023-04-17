@@ -1,0 +1,652 @@
+.pending-task-value-col:nth-child(1) .pending-task-value {
+    background: #38B6FF !important;
+}
+
+.pending-task-value-col:nth-child(2) .pending-task-value {
+    background: #B28DFF !important;
+}
+
+.pending-task-value-col:nth-child(3) .pending-task-value {
+    background: #EF43CF !important;
+}
+
+.hl_login--header {
+    background: transparent;
+    border-bottom: 0;
+}
+
+.hl_login--header {
+    background: transparent;
+    border-bottom: 0;
+    padding: 15px 0;
+    margin-bottom: 80px;
+}
+
+section.hl_login {
+    background: #2b2f42;
+    background-image: url("https://storage.googleapis.com/msgsndr/ELRe1x6ajfW3e0BfJrcS/media/63b99855b738604d205f1875.png");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.hl_login--body .card {
+    width: 50% !important;
+    margin: 0;
+    margin-left: 10%;
+    background: transparent;
+}
+
+h2.heading2 {
+    content: url('https://storage.googleapis.com/msgsndr/ELRe1x6ajfW3e0BfJrcS/media/63b9863e726b36ef794ea961.png');
+    height: 78px;
+}
+
+.hl_login--body .hl-text-input-label,
+.card-heading .website-page-name[data-v-e7f4bd38],
+.hl_opportunities--set-header h4,
+.funnel-title h2[data-v-b1f4eb1c] .flex.items-center,
+.personal-logo .picture-text h4 {
+    color: #fff;
+    font-family: 'Poppins';
+}
+
+.hl_login--body input {
+    background: transparent;
+    border: 0;
+    border-bottom: 1px solid #fff;
+    border-radius: 0 !important;
+}
+
+.hl_login--body button,
+html .hl_login--body [type=button] {
+    -webkit-appearance: button;
+    background: #c2407f;
+}
+
+.sidebar-v2-agency #sidebar-v2 .default-bg-color,
+.sidebar-v2-agency #sidebar-v2.default-bg-color {
+    background: #353A50;
+}
+
+.card.hl_dashboard--need-action {
+    border-radius: 20px !important;
+    overflow: hidden;
+}
+
+body[data-theme=default-dark-v1],
+header.hl_header,
+.modal-content,
+.hl_team-management--modal .custom-card,
+.bg-gray-50,
+#app,
+.hl_affiliate--header[data-v-283285f4] {
+    background: #2b2f42 !important;
+    color: #fff !important;
+    font-family: 'Poppins';
+}
+
+#dashboard .hl_dashboard--need-action .card-header,
+.card,
+.card-header {
+    background: #353a50 !important;
+    color: #fff !important;
+}
+
+button.btn.dropdown-toggle.bs-placeholder.btn-light,
+button.btn.dropdown-toggle.btn-secondary,
+.only-agency-sections {
+    background: transparent !important;
+}
+
+button.btn.dropdown-toggle.bs-placeholder.btn-light .filter-option-inner-inner,
+button.btn.dropdown-toggle.btn-secondary,
+span.text-sm.font-medium.text-gray-700,
+.bootstrap-select .dropdown-toggle .filter-option-inner {
+    color: #a7c9ec !important;
+    background: transparent;
+}
+
+.card-title,
+.card-header h3,
+.topmenu-navtitle,
+.card-body h2,
+#invites-goal .invites-goal_progress h3[data-v-dc409558],
+#review-received .review-summary h3[data-v-6a399e6d],
+#avg-rating .card-body .summary h3[data-v-5ca9da9c],
+.sentiment_review-inner h3[data-v-0063c6b7],
+.sentiment_review-inner h4[data-v-0063c6b7],
+.launchpad-title,
+.table tbody tr td,
+.funnel-title h2[data-v-b1f4eb1c],
+.card-header h2,
+.hl_opportunities-item h5,
+.card-body h3,
+.hl_affiliate--header h2 {
+    color: #fff !important;
+}
+
+.sentiment_review-graph .percentage[data-v-0063c6b7] {
+    background: transparent !important;
+}
+
+.sidebar-v2-location .hl_header .topmenu-nav .topmenu-navitem,
+.nav.nav-tabs .nav-link,
+.table thead tr th,
+.hl_affiliate--nav li a,
+.hl_affiliate--nav li a[data-v-283285f4] {
+    color: #ccc;
+}
+
+.agency-dash .card {
+    border-radius: 20px;
+}
+
+.card-heade,
+.flex-child[data-v-a6528de4r] {
+    background: #353a50;
+    color: #fff !important;
+}
+
+button.hl-btn.ml-2.inline-flex.items-center.px-4.py-2.border.border-gray-300.shadow-sm.text-sm.font-medium.rounded.text-gray-700.hover\:bg-gray-50.focus\:outline-none.focus\:ring-2.focus\:ring-offset-2.focus\:ring-curious-blue-500 {
+    background: #fff;
+}
+
+.funnel {
+    color: #000;
+}
+
+.text-gray-700 {
+    color: #ccc;
+}
+
+a.btn.btn-sm.btn-yellow-lt.dropdown-toggle,
+.cc-wrap .cc-wrap__left {
+    background: #039adc !important;
+    color: #fff !important;
+}
+
+.pending-task-value-col:nth-child(1) .pending-task-value {
+    background: #38B6FF !important;
+}
+
+.pending-task-value-col:nth-child(2) .pending-task-value {
+    background: #B28DFF !important;
+}
+
+.pending-task-value-col:nth-child(3) .pending-task-value {
+    background: #EF43CF !important;
+
+}
+
+section.hl_login {
+    background: #2b2f42;
+    background-image: url("https://storage.googleapis.com/msgsndr/ELRe1x6ajfW3e0BfJrcS/media/63b99855b738604d205f1875.png");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.hl_login--body .card {
+    width: 50% !important;
+    margin: 0;
+    margin-left: 10%;
+    background: transparent;
+}
+
+h2.heading2 {
+    content: url('https://storage.googleapis.com/msgsndr/ELRe1x6ajfW3e0BfJrcS/media/63b9863e726b36ef794ea961.png');
+    height: 78px;
+}
+
+.hl_login--body .hl-text-input-label,
+.card-heading .website-page-name[data-v-e7f4bd38],
+.hl_opportunities--set-header h4,
+.hl_dashboard--conversion-rate .bottom-stats li strong,
+.hl_dashboard--matters-added .bottom-stats li strong,
+.hl_dashboard--pipeline-value .bottom-stats li strong,
+.avatar>h4,
+.hl_controls--left.flex h3,
+.calendar-settings .header .title {
+    color: #fff;
+    font-family: 'Poppins';
+}
+
+.hl_login--body input {
+    background: transparent;
+    border: 0;
+    border-bottom: 1px solid #fff;
+    border-radius: 0 !important;
+}
+
+.hl_login--body button,
+html .hl_login--body [type=button] {
+    -webkit-appearance: button;
+    background: #c2407f;
+}
+
+.card.hl_dashboard--need-action {
+    border-radius: 20px !important;
+    overflow: hidden;
+}
+
+body[data-theme=default-dark-v1],
+header.hl_header,
+.modal-content,
+.hl_team-management--modal .custom-card,
+.hl_wrapper-text-widget--root,
+.sidebar-v2-location .hl_settings--body {
+    background: #2b2f42 !important;
+    color: #fff !important;
+    font-family: 'Poppins';
+}
+
+#dashboard .hl_dashboard--need-action .card-header,
+.card,
+.card-header,
+.summary-card__wrap[data-v-17e27dc0],
+.row[data-v-0b84707d],
+.card-integration,
+table.dummy-table.min-w-full,
+.w-full.h-96.border.border-gray-200.sm\:rounded-lg.shadow-sm.flex.items-center.justify-center.flex-column {
+    background: #353a50 !important;
+    color: #fff !important;
+}
+
+.card-header h2,
+.hl_opportunities-item h5,
+.card-body h3,
+.hl_wrapper-text-widget--root .header H4 {
+    color: #fff !important;
+}
+
+button.btn.dropdown-toggle.bs-placeholder.btn-light,
+button.btn.dropdown-toggle.btn-secondary {
+    background: transparent !important;
+}
+
+button.btn.dropdown-toggle.bs-placeholder.btn-light .filter-option-inner-inner,
+button.btn.dropdown-toggle.btn-secondary,
+span.text-sm.font-medium.text-gray-700,
+.bootstrap-select .dropdown-toggle .filter-option-inner {
+    color: #a7c9ec !important;
+    background: transparent;
+}
+
+.card-title,
+.card-header h3,
+.topmenu-navtitle,
+.card-body h2,
+#invites-goal .invites-goal_progress h3[data-v-dc409558],
+#review-received .review-summary h3[data-v-6a399e6d],
+#avg-rating .card-body .summary h3[data-v-5ca9da9c],
+.sentiment_review-inner h3[data-v-0063c6b7],
+.sentiment_review-inner h4[data-v-0063c6b7],
+.launchpad-title,
+.table tbody tr td,
+.hl_settings--controls-left h2,
+.hl_controls--left h2,
+.calendar-settings .body .card .title,
+.modal-content--service section .title,
+.modal-content--service .modal-title,
+.calendar-hour .day-of-week-name,
+.modal-content--service .option--member label,
+.modal-content--service .option--member label,
+.modal-content--service .radio--distribution label,
+h2.modal-title,
+label,
+.summary-card__heading,
+.upper-block .month-info .main-head[data-v-17e27dc0],
+.upper-block .month-info .sub-head[data-v-17e27dc0],
+.info-row[data-v-17e27dc0],
+.other-charges-row .price[data-v-17e27dc0],
+.reg-heading[data-v-3728c60b],
+.isv-toll-free-wrap h3,
+.heading-trust-center[data-v-4f5bedab],
+.card-header-trust-center[data-v-4f5bedab],
+.card-content[data-v-4f5bedab],
+.hl_settings--controls-left.text-2xl.font-medium.text-black,
+.text-\[\#3C3C3C\],
+.text-\[\#3C3C3CB2\],
+.text-xl.flex-none.font-medium.text-\[\#2D3748\],
+.text-\[\#3c3c3cb3\],
+span.ml-2.text-sm.font-medium.dark\:text-gray-700,
+.hover\:text-black:hover,
+ul.header-ul li.active a[data-v-2d22e3da],
+.hl_controls.hl_smartlists--controls h3,
+ul.header-ul li a[data-v-2d22e3da],
+.hl_controls--left h1,
+.template-card h4,
+#agency-reselling #tab-header,
+#wp_resell .card .card-body .playground .settings .configuration .section_heading,
+#yext_resell .card .card-body .playground .configuration .section_heading,
+.billing-header h2,
+.hl-header-content .title,
+.hl-header-content .hl-title-container .hl-text-lg-medium,
+.hl-title-container,
+.hl-header-content .title,
+.hl-header-content .description,
+.title,
+.hl_marketing--header-inner h2,
+.mobile-sub-title.mt-2.mb-4 {
+    color: #fff !important;
+}
+
+.funnel,
+.filter-option-inner-inner,
+.info-bulb-text[data-v-8cf6d990],
+#review-widget .two-part .copy-code-wrapper span[data-v-4ce21d38],
+#review-widget .two-part .color-select[data-v-4ce21d38],
+.text-gray-900.border-gray-300.border-t.group.min-w-0.py-2\.5.px-3.text-sm.font-medium.text-center.hover\:bg-gray-50.focus\:z-10.cursor-pointer.-mb-px.bg-white span,
+.absolute.min-w-\[150px\].rounded-md.shadow-lg.bg-white.ring-1.ring-black.ring-opacity-5.focus\:outline-none.z-5.-bottom-2.left-0.translate-y-full.mt-3 span#menu-item-0,
+.hover\:bg-gray-50:hover,
+.capitalize.cursor-pointer,
+.flex.items-center.h-5.cursor-pointer {
+    color: #000 !important;
+}
+
+.sentiment_review-graph .percentage[data-v-0063c6b7],
+.steps-split-test-range,
+.hl_reputation .hl_reputation--header[data-v-2a1e436c],
+section.w-full.hl_wrapper--inner.hl_settings.hl_settings--profile .mt-12[data-v-b68c81a2],
+.container-fluid.w-full.mx-auto.bg-white.pt-4.min-h-screen.pl-3.mt-12,
+#agency-reselling #tab-header,
+.hl_affiliate--header[data-v-01a21858],
+.isv-switch-modal__info-wrap,
+.stripe-connect__wrap,
+.sidebar-v2-agency .hl_wrapper .hl_wrapper--inner .w-full.mx-auto.bg-white.min-h-screen,
+.vjs-tree__node.is-highlight,
+.vjs-tree__node:hover,
+.launchpad-item-container {
+    background: transparent !important;
+}
+
+.sidebar-v2-location .hl_header .topmenu-nav .topmenu-navitem,
+.hl_wrapper-text-widget--root .header p,
+.modal-content--service section .help-text,
+.hl_call--settings p,
+.hl_call--settings .text-inner-upload,
+.text-gray-700,
+.hl_affiliate--nav li a[data-v-283285f4],
+.title-subtext[data-v-8cf6d990],
+.heading-subscript[data-v-4f5bedab],
+.trust-center-points[data-v-4f5bedab],
+.text-gray-900,
+p.text-sm.text-gray-700,
+.text-gray-600,
+.hl_template_info--overview h5,
+.hl_affiliate--nav li a[data-v-01a21858],
+.modal-body--inner h5,
+.modal-body--inner h5,
+.n-tabs.n-tabs--line-type .n-tabs-tab,
+.n-tabs.n-tabs--bar-type .n-tabs-tab,
+.hl-header-content .description,
+.title,
+.text-gray-500 {
+    color: #ccc !important;
+}
+
+.agency-dash .card {
+    border-radius: 20px;
+}
+
+.card-header,
+.flex-child[data-v-a6528de4r],
+.sidebar-v2-location .hl_settings--body .bg-white.py-3.rounded.shadow.flex.justify-center.items-center.flex-col.w-full,
+.table-wrap[data-v-3728c60b],
+.isv-toll-free-wrap[data-v-8cf6d990],
+.w-full.h-full.border.border-gray-200.sm\:rounded-lg,
+.mt-5.w-full.flex.flex-col.items-center.bg-white.border.rounded-lg.shadow-md.md\:flex-row.hover\:bg-gray-100.dark\:border-gray-700.dark\:bg-gray-800.dark\:hover\:bg-gray-700,
+.card-extend[data-v-4e32c33c],
+.billing-alert.success[data-v-4e32c33c],
+.billing-alert,
+.shimmer-card,
+.card-body .cc-wrap,
+.twilio-row.--completed[data-v-2614e47d],
+.isv-switch-modal__header,
+.isv-switch-modal__body,
+.vfm__content.inline-block.align-center.bg-white.rounded-lg.px-4.pt-5.pb-4.text-left.shadow-xl.transform.transition-all.sm\:my-8.sm\:align-middle.sm\:max-w-md.sm\:w-full.sm\:p-6.activity-log-modal,
+.launchpad-item-sub-container.launchpad-bottom-border.bg-white.my-1,
+.launchpad-item-sub-container.bg-white.my-1,
+.modal-container[data-v-b3a8880a],
+.tui-full-calendar-layout,
+.tui-full-calendar-layout * {
+    background: #353a50 !important;
+    color: #fff !important;
+}
+
+.hl_affiliate--nav li.--active a[data-v-283285f4] {
+    color: #188bf6 !important;
+}
+
+button.hl-btn.ml-2.inline-flex.items-center.px-4.py-2.border.border-gray-300.shadow-sm.text-sm.font-medium.rounded.text-gray-700.hover\:bg-gray-50.focus\:outline-none.focus\:ring-2.focus\:ring-offset-2.focus\:ring-curious-blue-500,
+.hover\:bg-gray-50:hover,
+.current-balance[data-v-0662b1b9],
+#isvApp iframe {
+    background: #fff;
+}
+
+a.btn.btn-sm.btn-yellow-lt.dropdown-toggle {
+    background: #039adc !important;
+    color: #fff !important;
+}
+
+path.highcharts-point.highcharts-color-0,
+g.highcharts-legend-item.highcharts-funnel-series.highcharts-color-0 rect.highcharts-point,
+g.highcharts-legend-item.highcharts-pie-series.highcharts-color-0 rect.highcharts-point {
+    fill: #009FE3 !important;
+}
+
+path.highcharts-point.highcharts-color-1,
+g.highcharts-legend-item.highcharts-funnel-series.highcharts-color-1 rect.highcharts-point,
+g.highcharts-legend-item.highcharts-pie-series.highcharts-color-1 rect.highcharts-point {
+    fill: #05B1D6 !important;
+}
+
+path.highcharts-point.highcharts-color-2,
+g.highcharts-legend-item.highcharts-funnel-series.highcharts-color-2 rect.highcharts-point,
+g.highcharts-legend-item.highcharts-pie-series.highcharts-color-2 rect.highcharts-point {
+    fill: #B28DFF !important;
+}
+
+path.highcharts-point.highcharts-color-3,
+g.highcharts-legend-item.highcharts-funnel-series.highcharts-color-3 rect.highcharts-point,
+g.highcharts-legend-item.highcharts-pie-series.highcharts-color-3 rect.highcharts-point {
+    fill: #EF43CF !important;
+}
+
+path.highcharts-point.highcharts-color-4,
+g.highcharts-legend-item.highcharts-funnel-series.highcharts-color-4 rect.highcharts-point,
+g.highcharts-legend-item.highcharts-pie-series.highcharts-color-4 rect.highcharts-point {
+    fill: #FF66C4 !important;
+}
+
+rect.highcharts-background {
+    fill: none !important;
+}
+
+g.highcharts-legend-item text {
+    color: #fff !important;
+    fill: #fff !important;
+    letter-spacing: 1px;
+    font-weight: 100 !important;
+}
+
+.table-hl tbody tr:nth-of-type(2n),
+.table-hl thead tr th {
+    background-color: #2a2d3e;
+}
+
+.table-hl thead tr th[aria-sort],
+.bg-white p,
+.calendar-settings .body .card--add-service,
+.text-gray-900.border-gray-300.border-t.group.min-w-0.py-2\.5.px-3.text-sm.font-medium.text-center.hover\:bg-gray-50.focus\:z-10.cursor-pointer.-mb-px.bg-white.rounded-tl-md span,
+.text-gray-900.border-gray-300.border-t.group.min-w-0.py-2\.5.px-3.text-sm.font-medium.text-center.hover\:bg-gray-50.focus\:z-10.cursor-pointer.bg-gray-100 span,
+.absolute.min-w-\[150px\].rounded-md.shadow-lg.bg-white.ring-1.ring-black.ring-opacity-5.focus\:outline-none.z-5.-bottom-2.right-0.translate-y-full.mt-3 span#menu-item-0 {
+    color: #000 !important;
+}
+
+.radio.radio--distribution.box-shadow-border-none {
+    background: transparent;
+}
+
+.hover\:bg-gray-100:hover {
+    background: #000 !important;
+}
+
+.hl_dashboard--conversion-rate .bottom-stats li:first-child span,
+.hl_dashboard--matters-added .bottom-stats li:first-child span,
+.hl_dashboard--pipeline-value .bottom-stats li:first-child span {
+    color: #EF43CF;
+}
+
+.hl_dashboard--conversion-rate .bottom-stats li:nth-child(2) span,
+.hl_dashboard--matters-added .bottom-stats li:nth-child(2) span,
+.hl_dashboard--pipeline-value .bottom-stats li:nth-child(2) span {
+    color: #38B6FF;
+}
+
+.hl_dashboard--conversion-rate .bottom-stats li:nth-child(3) span,
+.hl_dashboard--matters-added .bottom-stats li:nth-child(3) span,
+.hl_dashboard--pipeline-value .bottom-stats li:nth-child(3) span {
+    color: #C1C4CC;
+}
+
+.calendar-settings .header .btn-settings,
+.calendar-settings .header .btn-settings {
+    border: 1px solid hsl(0deg 0% 100%) !important;
+    padding: 5px 10px !important;
+    color: #ffffff !important;
+}
+
+.icon-calendar-code,
+.icon-calendar-settings {
+    filter: brightness(1.5) !important;
+    padding-right: 34px !important;
+}
+
+.calendar-settings .ellipsis {
+    cursor: context-menu;
+    color: #fff !important;
+    filter: invert(1);
+}
+
+button.btn.dropdown-toggle.bs-placeholder.btn-light .filter-option-inner-inner,
+button.btn.dropdown-toggle.btn-secondary,
+span.text-sm.font-medium.text-gray-700,
+.bootstrap-select .dropdown-toggle .filter-option-inner {
+    color: #999 !important;
+}
+
+.only-agency-sections,
+.summary-card__wrap[data-v-17e27dc0],
+.card[data-v-4f5bedab],
+.launchpad-item-container {
+    border: 0 !important;
+}
+
+.color-select .color-selected {
+    border: 2px solid #7d8083;
+}
+
+.text-base.flex-none.text-\[\#3c3c3cb3\].mt-1 .text-black,
+.text-curious-blue-700 {
+    color: #188bf6;
+}
+
+img.w-\[25px\] {
+    filter: brightness(5);
+}
+
+.bg-apple-500,
+.btn-success,
+#wp_resell .card .card-body .playground .settings .selection .option .option-action>*,
+.hl-billing__end-trial-btn[data-v-4e32c33c],
+.hl-billing__upgrade-btn[data-v-4e32c33c],
+.recharge-balance .add-balance[data-v-0662b1b9],
+button.green-btn.green-filled-button.green-btn {
+    background-color: #c2407f !important;
+}
+
+.hover\:bg-apple-600:hover,
+.btn-success:hover,
+.hl-billing__end-trial-btn[data-v-4e32c33c],
+.hl-billing__upgrade-btn[data-v-4e32c33c]:hover {
+    background-color: #fd65c3;
+}
+
+.agency-dash .saas-banner[data-v-53d482a3],
+.hl_billing--account .card .card-body[data-v-4e32c33c] {
+    background: linear-gradient(90deg, #FD65C3, #039ADC) !important;
+}
+
+#wp_resell .card .card-body .playground .settings .selection .option .option-heading,
+.switch-btn-status.--success[data-v-2614e47d] {
+    color: #039ADC !important;
+}
+
+.personal-logo .picture {
+    background-size: contain;
+}
+
+.billing-alert.success[data-v-4e32c33c],
+.card-extend[data-v-4e32c33c] {
+    border-color: #c2407f !important;
+}
+
+.current-balance h4[data-v-0662b1b9] {
+    color: #c2407f !important;
+}
+
+
+
+/* Sidebar Icons */
+
+
+a#sb_launchpad img {
+    content: url('https://storage.googleapis.com/msgsndr/hZAZoMhHzhHfLXIO7vht/media/63c10b45dc38d7112fa2c1fd.png');
+}
+
+a#sb_dashboard img {
+    content: url('https://storage.googleapis.com/msgsndr/hZAZoMhHzhHfLXIO7vht/media/63c10b45dc38d721dba2c1fc.png');
+}
+
+a#sb_conversations img {
+    content: url('https://storage.googleapis.com/msgsndr/hZAZoMhHzhHfLXIO7vht/media/63c10b4529353d164b1230fc.png');
+}
+
+a#sb_calendars img {
+    content: url('https://storage.googleapis.com/msgsndr/hZAZoMhHzhHfLXIO7vht/media/63c10b4529353d6ee01230fb.png');
+}
+
+a#sb_contacts img {
+    content: url('https://storage.googleapis.com/msgsndr/hZAZoMhHzhHfLXIO7vht/media/63c10b4529353d28d81230fa.png');
+}
+
+a#sb_opportunities img {
+    content: url('https://storage.googleapis.com/msgsndr/hZAZoMhHzhHfLXIO7vht/media/63c10b45dc38d765a1a2c1fb.png');
+}
+
+a#sb_payments img {
+    content: url('https://storage.googleapis.com/msgsndr/hZAZoMhHzhHfLXIO7vht/media/63c10b4529353d8b9f1230f9.png');
+}
+
+a#sb_email-marketing img {
+    content: url('https://storage.googleapis.com/msgsndr/hZAZoMhHzhHfLXIO7vht/media/63c10b4587e7b852a4e5d436.png');
+}
+
+a#sb_automation img {
+    content: url('https://storage.googleapis.com/msgsndr/hZAZoMhHzhHfLXIO7vht/media/63c10b45dc38d724a8a2c1fa.png');
+}
+
+a#sb_sites img {
+    content: url('https://storage.googleapis.com/msgsndr/hZAZoMhHzhHfLXIO7vht/media/63c10b4587e7b817eae5d435.png');
+}
+
+a#sb_reputation img {
+    content: url('https://storage.googleapis.com/msgsndr/hZAZoMhHzhHfLXIO7vht/media/63c10b4529353dbe611230f8.png');
+}
+
+a#sb_reporting img {
+    content: url('https://storage.googleapis.com/msgsndr/hZAZoMhHzhHfLXIO7vht/media/63c10b4529353d570f1230f7.png');
+}
