@@ -1,0 +1,214 @@
+img.object-contain.agency-logo {
+    content: url(https://firebasestorage.googleapis.com/v0/b/highlevel-backend.appspot.com/o/companyPhotos%2FXG3FdDOv323kTog9QXi0.png?alt=media&token=3376f711-c278-42dc-b3be-2b9d6e6f53a7);
+}
+
+.hl_login--header {
+    background: transparent;
+    border-bottom: 0;
+}
+
+.hl_login--header {
+    background: transparent;
+    border-bottom: 0;
+    padding: 15px 0;
+    margin-bottom: 80px;
+}
+
+section.hl_login {
+    background: #2b2f42;
+    background-image: url("https://storage.googleapis.com/msgsndr/ELRe1x6ajfW3e0BfJrcS/media/63b99855b738604d205f1875.png");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.hl_login--body .card {
+    width: 50% !important;
+    margin: 0;
+    margin-left: 10%;
+    background: transparent;
+}
+
+h2.heading2 {
+    content: url('https://storage.googleapis.com/msgsndr/ELRe1x6ajfW3e0BfJrcS/media/63b9863e726b36ef794ea961.png');
+    height: 78px;
+}
+
+.hl_login--body .hl-text-input-label,
+.card-heading .website-page-name[data-v-e7f4bd38],
+.hl_opportunities--set-header h4,
+.funnel-title h2[data-v-b1f4eb1c] .flex.items-center,
+.personal-logo .picture-text h4 {
+    font-family: 'Poppins';
+}
+
+.hl_login--body input {
+    background: transparent;
+    border: 0;
+    border-bottom: 1px solid #fff;
+    border-radius: 0 !important;
+}
+
+.hl_login--body button,
+html .hl_login--body [type=button] {
+    -webkit-appearance: button;
+    background: #c2407f;
+}
+
+
+/* Sidebar Icons */
+
+
+a#sb_launchpad img {
+    content: url('https://storage.googleapis.com/msgsndr/hZAZoMhHzhHfLXIO7vht/media/63c10b45dc38d7112fa2c1fd.png');
+}
+
+a#sb_dashboard img {
+    content: url('https://storage.googleapis.com/msgsndr/hZAZoMhHzhHfLXIO7vht/media/63c10b45dc38d721dba2c1fc.png');
+}
+
+a#sb_conversations img {
+    content: url('https://storage.googleapis.com/msgsndr/hZAZoMhHzhHfLXIO7vht/media/63c10b4529353d164b1230fc.png');
+}
+
+a#sb_calendars img {
+    content: url('https://storage.googleapis.com/msgsndr/hZAZoMhHzhHfLXIO7vht/media/63c10b4529353d6ee01230fb.png');
+}
+
+a#sb_contacts img {
+    content: url('https://storage.googleapis.com/msgsndr/hZAZoMhHzhHfLXIO7vht/media/63c10b4529353d28d81230fa.png');
+}
+
+a#sb_opportunities img {
+    content: url('https://storage.googleapis.com/msgsndr/hZAZoMhHzhHfLXIO7vht/media/63c10b45dc38d765a1a2c1fb.png');
+}
+
+a#sb_payments img {
+    content: url('https://storage.googleapis.com/msgsndr/hZAZoMhHzhHfLXIO7vht/media/63c10b4529353d8b9f1230f9.png');
+}
+
+a#sb_email-marketing img {
+    content: url('https://storage.googleapis.com/msgsndr/hZAZoMhHzhHfLXIO7vht/media/63c10b4587e7b852a4e5d436.png');
+}
+
+a#sb_automation img {
+    content: url('https://storage.googleapis.com/msgsndr/hZAZoMhHzhHfLXIO7vht/media/63c10b45dc38d724a8a2c1fa.png');
+}
+
+a#sb_sites img {
+    content: url('https://storage.googleapis.com/msgsndr/hZAZoMhHzhHfLXIO7vht/media/63c10b4587e7b817eae5d435.png');
+}
+
+a#sb_reputation img {
+    content: url('https://storage.googleapis.com/msgsndr/hZAZoMhHzhHfLXIO7vht/media/63c10b4529353dbe611230f8.png');
+}
+
+a#sb_reporting img {
+    content: url('https://storage.googleapis.com/msgsndr/hZAZoMhHzhHfLXIO7vht/media/63c10b4529353d570f1230f7.png');
+}
+
+
+/* Dashboard */
+.hl_dashboard--conversion-rate .bottom-stats li:first-child span,
+.hl_dashboard--matters-added .bottom-stats li:first-child span,
+.hl_dashboard--pipeline-value .bottom-stats li:first-child span {
+    color: #EF43CF;
+}
+
+.hl_dashboard--conversion-rate .bottom-stats li:nth-child(2) span,
+.hl_dashboard--matters-added .bottom-stats li:nth-child(2) span,
+.hl_dashboard--pipeline-value .bottom-stats li:nth-child(2) span {
+    color: #38B6FF;
+}
+
+.hl_dashboard--conversion-rate .bottom-stats li:nth-child(3) span,
+.hl_dashboard--matters-added .bottom-stats li:nth-child(3) span,
+.hl_dashboard--pipeline-value .bottom-stats li:nth-child(3) span {
+    color: #C1C4CC;
+}
+
+path.highcharts-point.highcharts-color-0,
+g.highcharts-legend-item.highcharts-funnel-series.highcharts-color-0 rect.highcharts-point,
+g.highcharts-legend-item.highcharts-pie-series.highcharts-color-0 rect.highcharts-point {
+    fill: #009FE3 !important;
+}
+
+path.highcharts-point.highcharts-color-1,
+g.highcharts-legend-item.highcharts-funnel-series.highcharts-color-1 rect.highcharts-point,
+g.highcharts-legend-item.highcharts-pie-series.highcharts-color-1 rect.highcharts-point {
+    fill: #05B1D6 !important;
+}
+
+path.highcharts-point.highcharts-color-2,
+g.highcharts-legend-item.highcharts-funnel-series.highcharts-color-2 rect.highcharts-point,
+g.highcharts-legend-item.highcharts-pie-series.highcharts-color-2 rect.highcharts-point {
+    fill: #B28DFF !important;
+}
+
+path.highcharts-point.highcharts-color-3,
+g.highcharts-legend-item.highcharts-funnel-series.highcharts-color-3 rect.highcharts-point,
+g.highcharts-legend-item.highcharts-pie-series.highcharts-color-3 rect.highcharts-point {
+    fill: #EF43CF !important;
+}
+
+path.highcharts-point.highcharts-color-4,
+g.highcharts-legend-item.highcharts-funnel-series.highcharts-color-4 rect.highcharts-point,
+g.highcharts-legend-item.highcharts-pie-series.highcharts-color-4 rect.highcharts-point {
+    fill: #FF66C4 !important;
+}
+
+rect.highcharts-background {
+    fill: none !important;
+}
+.pending-task-value-col:nth-child(1) .pending-task-value {
+    background: #38B6FF !important;
+}
+
+.pending-task-value-col:nth-child(2) .pending-task-value {
+    background: #B28DFF !important;
+}
+
+.pending-task-value-col:nth-child(3) .pending-task-value {
+    background: #EF43CF !important;
+}
+.personal-logo .picture {
+    background-size: contain;
+}
+
+.sidebar-v2-location #sidebar-v2 .default-bg-color,
+.sidebar-v2-location #sidebar-v2.default-bg-color,
+.sidebar-v2-agency #sidebar-v2 .default-bg-color,
+.sidebar-v2-agency #sidebar-v2.default-bg-color {
+    background-color: #2b2f42 !important;
+    background-image: linear-gradient(150deg, #2b2f42 51%, #fd65c38c 75%, #039adc94 100%) !important;
+}
+
+header.hl_header {
+    background-color: #2b2f42 !important;
+    background-image: linear-gradient(18deg, #2b2f42 60%, #fd65c38c 80%, #039adc94 100%) !important;
+}
+
+.topmenu-navtitle {
+    color: #fff !important;
+}
+
+.sidebar-v2-location .hl_header .topmenu-nav .topmenu-navitem {
+    color: #ccc;
+}
+
+.bg-apple-500,
+.btn-success,
+#wp_resell .card .card-body .playground .settings .selection .option .option-action>*,
+.hl-billing__end-trial-btn[data-v-4e32c33c],
+.hl-billing__upgrade-btn[data-v-4e32c33c],
+.recharge-balance .add-balance[data-v-0662b1b9],
+button.green-btn.green-filled-button.green-btn {
+    background-color: #c2407f !important;
+}
+
+.hover\:bg-apple-600:hover,
+.btn-success:hover,
+.hl-billing__end-trial-btn[data-v-4e32c33c],
+.hl-billing__upgrade-btn[data-v-4e32c33c]:hover {
+    background-color: #fd65c3;
+}
